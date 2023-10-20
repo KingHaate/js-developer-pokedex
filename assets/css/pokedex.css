@@ -88,7 +88,7 @@
 
 .pokemon .number {
     color: #000;
-    opacity: .3;
+    opacity: .8;
     text-align: right;
     font-size: .625rem;
 }
@@ -97,6 +97,7 @@
     text-transform: capitalize;
     color: #fff;
     margin-bottom: .25rem;
+    letter-spacing: 2px;
 }
 
 .pokemon .detail {
