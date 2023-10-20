@@ -87,17 +87,20 @@
 }
 
 .pokemon .number {
-    color: #000;
-    opacity: .8;
+    color: #201e1e;
+    opacity: .7;
     text-align: right;
     font-size: .625rem;
+    text-shadow: 1px 0 rgb(255, 255, 255);
+
 }
 
 .pokemon .name {
     text-transform: capitalize;
-    color: #fff;
+    color: rgb(0, 0, 0);
     margin-bottom: .25rem;
     letter-spacing: 2px;
+    text-shadow: 1px 0 rgb(255, 255, 255);
 }
 
 .pokemon .detail {
